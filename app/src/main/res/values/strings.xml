@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Engmobileapp</string>
+    <string name="copyright">© 2019 Dawid Głowienkowski</string>
+    <string name="welcome">Witaj! Aby kontynuować, zaloguj się do aplikacji.</string>
+    <string name="btn_log_in">ZALOGUJ</string>
+    <string name="taboo_name">TABOO</string>
+    <string name="taboo_rounds">Liczba rund</string>
+    <string name="taboo_time">Czas jednej rundy [s]</string>
+    <string name="btn_taboo_start">START</string>
+    <string name="taboo_score">Wynik drużyny</string>
+    <string name="taboo_round_score">Wynik rundy</string>
+    <string name="summary">Podsumowanie</string>
+    <string name="prepare">Przyłóż telefon do czoła</string>
+    <string name="correct">DOBRZE</string>
+    <string name="incorrect">PASUJĘ</string>
+    <string name="heads_up_score_top">Udało ci się odgadnąć</string>
+    <string name="heads_up_score_bot">haseł!</string>
+</resources>
